@@ -1,0 +1,27 @@
+{
+  "name": "gloacademyjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SotskovS/GloAcademyJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SotskovS/GloAcademyJS/issues"
+  },
+  "homepage": "https://github.com/SotskovS/GloAcademyJS#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  }
+}
